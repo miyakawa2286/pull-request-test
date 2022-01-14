@@ -12,3 +12,4 @@ var sortNumber = function (number) {
  console.log(number);
 
  print('hello world')
+ print('hoge')
